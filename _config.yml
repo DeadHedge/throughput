@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "DeadHedge"
   avatar : "/assets/images/avatar.jpeg"
-  bio    : "Manufacturing engineer | Systems nerd | Euro$ student | Bitcoin believer"
+  bio    : "Manufacturing engineer - Systems nerd - Euro$ student - Bitcoin believer"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
