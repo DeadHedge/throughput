@@ -1,9 +1,13 @@
 ---
-title: «Welcome to Throughput»
-last_modified_at: 2024-01-10T16:20:02-05:00
+title: What is Throughput and why should I care?
 categories:
-    - blog
+    - productivity
 tags:
+    - toc
+    - measurements
 ---
 
-This is a test
+# Tell me how you measure me and I’ll tell you how I will behave.
+
+The above is a quote by the late Eliyahu M. Goldratt, the creator of the Theory of Constraints.
+Throughput is one of the fundamental measurements as defined 
